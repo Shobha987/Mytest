@@ -4,7 +4,7 @@ int main()
 <<<<<<< HEAD
 printf("hello java point  world");
 =======
-printf("hello dgworld");
+printf("hello lldgworld");
 >>>>>>> slave
 return 0;
 }
