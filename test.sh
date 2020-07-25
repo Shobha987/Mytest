@@ -1,4 +1,4 @@
 #!/bin/bash
 
 nano a.txt
-nano b.txt
+nano c.txt
