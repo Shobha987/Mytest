@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("HELLO world");
+printf("HELLO javaworld");
 return 0;
 }
 
