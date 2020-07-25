@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("hello java  world");
+printf("hello java point  world");
 return 0;
 }
 
