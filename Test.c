@@ -2,9 +2,9 @@
 int main()
 {
 <<<<<<< HEAD
-printf("hello java pointsg  world");
+printf("hello  world");
 =======
-printf("hello lldgworld");
+printf("hello java world");
 >>>>>>> slave
 return 0;
 }
