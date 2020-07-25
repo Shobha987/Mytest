@@ -2,7 +2,7 @@
 int main()
 {
 <<<<<<< HEAD
-printf("hello java point  world");
+printf("hello java pointsg  world");
 =======
 printf("hello lldgworld");
 >>>>>>> slave
